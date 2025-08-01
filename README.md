@@ -54,7 +54,7 @@ shopee-terminal/
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seuusuario/shopee-terminal.git
+git clone https://github.com/jfjoaofilho/shopee-terminal.git
 cd shopee-terminal
 ```
 2. Instale as dependências:
